@@ -3,23 +3,20 @@
 # 👋 Hi, I'm Khush Patel
 
 ### 💻 Electronics & Communication Engineering Student
-### 🤖 AI/ML Enthusiast • Software Developer • Tech Explorer
+
+**🤖 AI/ML Enthusiast • 💻 Software Developer • 🚀 Tech Explorer**
 
 *Learning, building, and growing one project at a time.*
 
 <br>
 
-<a href="https://www.linkedin.com/in/khush-patel-86071138b">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/khushpatel310">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" alt="GitHub">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khush-patel-86071138b)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-khushpatel310-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushpatel310)
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=khushpatel310&label=PROFILE%20VIEWS&style=for-the-badge&color=6C63FF" alt="Profile Views">
+![Profile Views](https://komarev.com/ghpvc/?username=khushpatel310&label=PROFILE%20VIEWS&style=for-the-badge&color=6C63FF)
 
 </div>
 
@@ -79,28 +76,6 @@
 
 ---
 
-## 🚀 What I Like Building
-
-<div align="center">
-
-💡 **AI / ML Projects**
-
-&nbsp;&nbsp; • &nbsp;&nbsp;
-
-🌐 **Web Applications**
-
-&nbsp;&nbsp; • &nbsp;&nbsp;
-
-⚙️ **Software Projects**
-
-&nbsp;&nbsp; • &nbsp;&nbsp;
-
-🧩 **Problem Solving**
-
-</div>
-
----
-
 ## 🎯 My Goals
 
 - 📚 Build strong programming fundamentals
@@ -116,13 +91,13 @@
 
 <div align="center">
 
-### 🌱 Learning
+### 🌱 Learn
 ### ↓
-### 💻 Building
+### 💻 Build
 ### ↓
-### 🧩 Solving
+### 🧩 Solve
 ### ↓
-### 🚀 Improving
+### 🚀 Improve
 
 <br>
 
@@ -136,15 +111,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/khush-patel-86071138b">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="65" alt="LinkedIn">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/khushpatel310">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" alt="GitHub">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khush-patel-86071138b)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-khushpatel310-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushpatel310)
 
 </div>
 

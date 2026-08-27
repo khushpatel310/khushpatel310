@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/khush-patel-86071138b">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/khushpatel310">
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" alt="GitHub">
 </a>
@@ -68,12 +68,12 @@
 
 <div align="center">
 
-**Machine Learning** &nbsp; • &nbsp;
-**Deep Learning** &nbsp; • &nbsp;
-**Generative AI** &nbsp; • &nbsp;
-**LLMs** &nbsp; • &nbsp;
-**DSA** &nbsp; • &nbsp;
-**Backend Development**
+🤖 **Machine Learning** &nbsp; • &nbsp;
+🧠 **Deep Learning** &nbsp; • &nbsp;
+🚀 **Generative AI** &nbsp; • &nbsp;
+🔗 **LLMs** &nbsp; • &nbsp;
+🧩 **DSA** &nbsp; • &nbsp;
+🌐 **Backend Development**
 
 </div>
 
@@ -83,9 +83,19 @@
 
 <div align="center">
 
-| 🤖 AI / ML | 🌐 Web Development | 🧩 Problem Solving |
-|:---:|:---:|:---:|
-| Intelligent applications | Practical web projects | DSA & coding challenges |
+💡 **AI / ML Projects**
+
+&nbsp;&nbsp; • &nbsp;&nbsp;
+
+🌐 **Web Applications**
+
+&nbsp;&nbsp; • &nbsp;&nbsp;
+
+⚙️ **Software Projects**
+
+&nbsp;&nbsp; • &nbsp;&nbsp;
+
+🧩 **Problem Solving**
 
 </div>
 
@@ -102,21 +112,21 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Journey
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushpatel310&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushpatel310&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
+### 🌱 Learning
+### ↓
+### 💻 Building
+### ↓
+### 🧩 Solving
+### ↓
+### 🚀 Improving
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=khushpatel310&theme=tokyonight&hide_border=true" />
+**Every project is a step forward.**
 
 </div>
 
@@ -129,7 +139,9 @@
 <a href="https://www.linkedin.com/in/khush-patel-86071138b">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="65" alt="LinkedIn">
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/khushpatel310">
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" alt="GitHub">
 </a>
@@ -142,6 +154,6 @@
 
 ### ⭐ Learn • Build • Grow
 
-*Every line of code is another step forward.*
+*Thanks for visiting my profile! 🚀*
 
 </div>

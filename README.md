@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hey, I'm Khush Patel
 
-<!--
-**khushpatel310/khushpatel310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 ECE Student | 🤖 AI/ML Explorer | 🚀 Developer
 
-Here are some ideas to get you started:
+> Learning, building, and improving one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+🎓 Electronics & Communication Engineering student
+
+💻 Interested in Software Development
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🧩 Currently improving my Data Structures & Algorithms skills
+
+🚀 I enjoy learning new technologies and building projects.
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+🐍 Python    ⚙️ C    💻 C++    🌐 HTML    🎨 CSS    🟨 JavaScript
+
+### 🛠️ Tools & Technologies
+
+🔧 Git    🐙 GitHub    💙 VS Code
+
+---
+
+## 🌱 Currently Learning
+
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 🚀 Generative AI
+* 🧩 Data Structures & Algorithms
+* 🌐 Backend Development
+
+---
+
+## 🚀 My Goals
+
+🎯 Build meaningful real-world projects
+
+📚 Strengthen my programming fundamentals
+
+🤖 Explore AI and Machine Learning
+
+💼 Prepare for internships and future opportunities
+
+---
+
+## 📊 GitHub Journey
+
+> Every project, every commit, and every mistake is part of the journey. 🚀
+
+---
+
+## 🌐 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/khush-patel-86071138b)
+
+🐙 [GitHub](https://github.com/khushpatel310)
+
+---
+
+### ⭐ Learn • Build • Improve • Repeat
